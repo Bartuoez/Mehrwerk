@@ -1,0 +1,401 @@
+Case;Activity;Timestamp
+1;enter bookstore;2024-07-24T17:48:19.362Z
+1;browse books;2024-07-24T17:49:24.362Z
+1;order book;2024-07-24T17:51:21.362Z
+1;leave bookstore;2024-07-24T17:52:49.362Z
+2;enter bookstore;2024-07-24T17:48:19.362Z
+2;browse books;2024-07-24T17:49:34.362Z
+2;order book;2024-07-24T17:50:44.362Z
+2;leave bookstore;2024-07-24T17:52:40.362Z
+3;enter bookstore;2024-07-24T17:48:19.362Z
+3;browse books;2024-07-24T17:49:22.362Z
+3;select & pay book;2024-07-24T17:50:28.362Z
+3;leave bookstore;2024-07-24T17:52:10.362Z
+4;enter bookstore;2024-07-24T17:48:19.362Z
+4;browse books;2024-07-24T17:49:41.362Z
+4;order book;2024-07-24T17:51:16.362Z
+4;leave bookstore;2024-07-24T17:52:41.362Z
+5;enter bookstore;2024-07-24T17:48:19.362Z
+5;browse books;2024-07-24T17:49:28.362Z
+5;order book;2024-07-24T17:50:41.362Z
+5;leave bookstore;2024-07-24T17:51:44.362Z
+6;enter bookstore;2024-07-24T17:48:19.362Z
+6;browse books;2024-07-24T17:50:04.362Z
+6;select & pay book;2024-07-24T17:51:15.362Z
+6;leave bookstore;2024-07-24T17:52:55.362Z
+7;enter bookstore;2024-07-24T17:48:19.362Z
+7;browse books;2024-07-24T17:50:14.362Z
+7;order book;2024-07-24T17:51:52.362Z
+7;leave bookstore;2024-07-24T17:53:17.362Z
+8;enter bookstore;2024-07-24T17:48:19.362Z
+8;browse books;2024-07-24T17:49:22.362Z
+8;select & pay book;2024-07-24T17:50:33.362Z
+8;leave bookstore;2024-07-24T17:52:32.362Z
+9;enter bookstore;2024-07-24T17:48:19.362Z
+9;browse books;2024-07-24T17:49:56.362Z
+9;order book;2024-07-24T17:51:07.362Z
+9;leave bookstore;2024-07-24T17:52:40.362Z
+10;enter bookstore;2024-07-24T17:48:19.362Z
+10;browse books;2024-07-24T17:49:36.362Z
+10;order book;2024-07-24T17:50:44.362Z
+10;leave bookstore;2024-07-24T17:52:14.362Z
+11;enter bookstore;2024-07-24T17:48:19.362Z
+11;browse books;2024-07-24T17:50:02.362Z
+11;order book;2024-07-24T17:51:59.362Z
+11;leave bookstore;2024-07-24T17:53:08.362Z
+12;enter bookstore;2024-07-24T17:48:19.362Z
+12;browse books;2024-07-24T17:50:16.362Z
+12;order book;2024-07-24T17:52:08.362Z
+12;leave bookstore;2024-07-24T17:53:28.362Z
+13;enter bookstore;2024-07-24T17:48:19.362Z
+13;asking for assistance;2024-07-24T17:49:24.362Z
+13;select & pay book;2024-07-24T17:50:58.362Z
+13;leave bookstore;2024-07-24T17:52:09.362Z
+14;enter bookstore;2024-07-24T17:48:19.362Z
+14;asking for assistance;2024-07-24T17:49:27.362Z
+14;select & pay book;2024-07-24T17:50:58.362Z
+14;leave bookstore;2024-07-24T17:52:03.362Z
+15;enter bookstore;2024-07-24T17:48:19.362Z
+15;browse books;2024-07-24T17:49:35.362Z
+15;select & pay book;2024-07-24T17:51:09.362Z
+15;leave bookstore;2024-07-24T17:52:59.362Z
+16;enter bookstore;2024-07-24T17:48:19.362Z
+16;browse books;2024-07-24T17:50:15.362Z
+16;order book;2024-07-24T17:51:42.362Z
+16;leave bookstore;2024-07-24T17:53:15.362Z
+17;enter bookstore;2024-07-24T17:48:19.362Z
+17;browse books;2024-07-24T17:50:02.362Z
+17;select & pay book;2024-07-24T17:51:34.362Z
+17;leave bookstore;2024-07-24T17:53:23.362Z
+18;enter bookstore;2024-07-24T17:48:19.362Z
+18;browse books;2024-07-24T17:49:47.362Z
+18;select & pay book;2024-07-24T17:51:44.362Z
+18;leave bookstore;2024-07-24T17:53:26.362Z
+19;enter bookstore;2024-07-24T17:48:19.362Z
+19;browse books;2024-07-24T17:50:11.362Z
+19;select & pay book;2024-07-24T17:51:46.362Z
+19;leave bookstore;2024-07-24T17:53:17.362Z
+20;enter bookstore;2024-07-24T17:48:19.362Z
+20;asking for assistance;2024-07-24T17:49:47.362Z
+20;select & pay book;2024-07-24T17:50:54.362Z
+20;leave bookstore;2024-07-24T17:52:29.362Z
+21;enter bookstore;2024-07-24T17:48:19.362Z
+21;asking for assistance;2024-07-24T17:49:29.362Z
+21;select & pay book;2024-07-24T17:50:36.362Z
+21;leave bookstore;2024-07-24T17:52:30.362Z
+22;enter bookstore;2024-07-24T17:48:19.362Z
+22;browse books;2024-07-24T17:49:56.362Z
+22;order book;2024-07-24T17:51:02.362Z
+22;leave bookstore;2024-07-24T17:52:23.362Z
+23;enter bookstore;2024-07-24T17:48:19.362Z
+23;asking for assistance;2024-07-24T17:49:57.362Z
+23;select & pay book;2024-07-24T17:51:05.362Z
+23;leave bookstore;2024-07-24T17:52:24.362Z
+24;enter bookstore;2024-07-24T17:48:19.362Z
+24;asking for assistance;2024-07-24T17:49:21.362Z
+24;select & pay book;2024-07-24T17:50:59.362Z
+24;leave bookstore;2024-07-24T17:52:39.362Z
+25;enter bookstore;2024-07-24T17:48:19.362Z
+25;browse books;2024-07-24T17:49:34.362Z
+25;select & pay book;2024-07-24T17:51:26.362Z
+25;leave bookstore;2024-07-24T17:52:28.362Z
+26;enter bookstore;2024-07-24T17:48:19.362Z
+26;asking for assistance;2024-07-24T17:50:01.362Z
+26;select & pay book;2024-07-24T17:51:12.362Z
+26;leave bookstore;2024-07-24T17:53:12.362Z
+27;enter bookstore;2024-07-24T17:48:19.362Z
+27;asking for assistance;2024-07-24T17:49:22.362Z
+27;select & pay book;2024-07-24T17:51:13.362Z
+27;leave bookstore;2024-07-24T17:52:41.362Z
+28;enter bookstore;2024-07-24T17:48:19.362Z
+28;asking for assistance;2024-07-24T17:49:23.362Z
+28;select & pay book;2024-07-24T17:51:19.362Z
+28;leave bookstore;2024-07-24T17:52:41.362Z
+29;enter bookstore;2024-07-24T17:48:19.362Z
+29;browse books;2024-07-24T17:50:00.362Z
+29;select & pay book;2024-07-24T17:51:51.362Z
+29;leave bookstore;2024-07-24T17:53:12.362Z
+30;enter bookstore;2024-07-24T17:48:19.362Z
+30;asking for assistance;2024-07-24T17:49:56.362Z
+30;select & pay book;2024-07-24T17:51:50.362Z
+30;leave bookstore;2024-07-24T17:53:09.362Z
+31;enter bookstore;2024-07-24T17:48:19.362Z
+31;browse books;2024-07-24T17:49:40.362Z
+31;select & pay book;2024-07-24T17:51:24.362Z
+31;leave bookstore;2024-07-24T17:52:58.362Z
+32;enter bookstore;2024-07-24T17:48:19.362Z
+32;browse books;2024-07-24T17:49:23.362Z
+32;select & pay book;2024-07-24T17:51:07.362Z
+32;leave bookstore;2024-07-24T17:52:12.362Z
+33;enter bookstore;2024-07-24T17:48:19.362Z
+33;browse books;2024-07-24T17:50:05.362Z
+33;select & pay book;2024-07-24T17:51:40.362Z
+33;leave bookstore;2024-07-24T17:53:28.362Z
+34;enter bookstore;2024-07-24T17:48:19.362Z
+34;browse books;2024-07-24T17:49:40.362Z
+34;select & pay book;2024-07-24T17:51:21.362Z
+34;leave bookstore;2024-07-24T17:53:04.362Z
+35;enter bookstore;2024-07-24T17:48:19.362Z
+35;asking for assistance;2024-07-24T17:49:57.362Z
+35;select & pay book;2024-07-24T17:51:14.362Z
+35;leave bookstore;2024-07-24T17:52:46.362Z
+36;enter bookstore;2024-07-24T17:48:19.362Z
+36;browse books;2024-07-24T17:49:34.362Z
+36;order book;2024-07-24T17:50:59.362Z
+36;leave bookstore;2024-07-24T17:52:35.362Z
+37;enter bookstore;2024-07-24T17:48:19.362Z
+37;browse books;2024-07-24T17:49:46.362Z
+37;select & pay book;2024-07-24T17:51:03.362Z
+37;leave bookstore;2024-07-24T17:52:58.362Z
+38;enter bookstore;2024-07-24T17:48:19.362Z
+38;asking for assistance;2024-07-24T17:50:00.362Z
+38;select & pay book;2024-07-24T17:52:00.362Z
+38;leave bookstore;2024-07-24T17:53:52.362Z
+39;enter bookstore;2024-07-24T17:48:19.362Z
+39;browse books;2024-07-24T17:49:51.362Z
+39;order book;2024-07-24T17:51:09.362Z
+39;leave bookstore;2024-07-24T17:53:09.362Z
+40;enter bookstore;2024-07-24T17:48:19.362Z
+40;browse books;2024-07-24T17:49:47.362Z
+40;order book;2024-07-24T17:51:26.362Z
+40;leave bookstore;2024-07-24T17:53:10.362Z
+41;enter bookstore;2024-07-24T17:48:19.362Z
+41;asking for assistance;2024-07-24T17:50:03.362Z
+41;select & pay book;2024-07-24T17:51:58.362Z
+41;leave bookstore;2024-07-24T17:53:00.362Z
+42;enter bookstore;2024-07-24T17:48:19.362Z
+42;browse books;2024-07-24T17:49:29.362Z
+42;order book;2024-07-24T17:51:07.362Z
+42;leave bookstore;2024-07-24T17:52:43.362Z
+43;enter bookstore;2024-07-24T17:48:19.362Z
+43;asking for assistance;2024-07-24T17:50:13.362Z
+43;select & pay book;2024-07-24T17:51:15.362Z
+43;leave bookstore;2024-07-24T17:52:21.362Z
+44;enter bookstore;2024-07-24T17:48:19.362Z
+44;browse books;2024-07-24T17:49:38.362Z
+44;order book;2024-07-24T17:51:34.362Z
+44;leave bookstore;2024-07-24T17:52:56.362Z
+45;enter bookstore;2024-07-24T17:48:19.362Z
+45;asking for assistance;2024-07-24T17:49:47.362Z
+45;select & pay book;2024-07-24T17:51:23.362Z
+45;leave bookstore;2024-07-24T17:52:43.362Z
+46;enter bookstore;2024-07-24T17:48:19.362Z
+46;browse books;2024-07-24T17:49:49.362Z
+46;select & pay book;2024-07-24T17:50:57.362Z
+46;leave bookstore;2024-07-24T17:51:59.362Z
+47;enter bookstore;2024-07-24T17:48:19.362Z
+47;browse books;2024-07-24T17:49:24.362Z
+47;select & pay book;2024-07-24T17:51:21.362Z
+47;leave bookstore;2024-07-24T17:52:35.362Z
+48;enter bookstore;2024-07-24T17:48:19.362Z
+48;browse books;2024-07-24T17:49:20.362Z
+48;order book;2024-07-24T17:50:22.362Z
+48;leave bookstore;2024-07-24T17:51:44.362Z
+49;enter bookstore;2024-07-24T17:48:19.362Z
+49;browse books;2024-07-24T17:49:21.362Z
+49;order book;2024-07-24T17:50:38.362Z
+49;leave bookstore;2024-07-24T17:51:39.362Z
+50;enter bookstore;2024-07-24T17:48:19.362Z
+50;asking for assistance;2024-07-24T17:50:11.362Z
+50;select & pay book;2024-07-24T17:51:48.362Z
+50;leave bookstore;2024-07-24T17:53:21.362Z
+51;enter bookstore;2024-07-24T17:48:19.362Z
+51;browse books;2024-07-24T17:49:38.362Z
+51;order book;2024-07-24T17:50:40.362Z
+51;leave bookstore;2024-07-24T17:52:35.362Z
+52;enter bookstore;2024-07-24T17:48:19.362Z
+52;asking for assistance;2024-07-24T17:50:09.362Z
+52;select & pay book;2024-07-24T17:51:32.362Z
+52;leave bookstore;2024-07-24T17:52:54.362Z
+53;enter bookstore;2024-07-24T17:48:19.362Z
+53;browse books;2024-07-24T17:50:02.362Z
+53;order book;2024-07-24T17:51:40.362Z
+53;leave bookstore;2024-07-24T17:53:34.362Z
+54;enter bookstore;2024-07-24T17:48:19.362Z
+54;browse books;2024-07-24T17:49:38.362Z
+54;select & pay book;2024-07-24T17:50:42.362Z
+54;leave bookstore;2024-07-24T17:52:00.362Z
+55;enter bookstore;2024-07-24T17:48:19.362Z
+55;asking for assistance;2024-07-24T17:49:55.362Z
+55;select & pay book;2024-07-24T17:51:16.362Z
+55;leave bookstore;2024-07-24T17:53:09.362Z
+56;enter bookstore;2024-07-24T17:48:19.362Z
+56;browse books;2024-07-24T17:49:56.362Z
+56;select & pay book;2024-07-24T17:51:43.362Z
+56;leave bookstore;2024-07-24T17:53:37.362Z
+57;enter bookstore;2024-07-24T17:48:19.362Z
+57;browse books;2024-07-24T17:50:15.362Z
+57;select & pay book;2024-07-24T17:51:33.362Z
+57;leave bookstore;2024-07-24T17:52:33.362Z
+58;enter bookstore;2024-07-24T17:48:19.362Z
+58;browse books;2024-07-24T17:49:47.362Z
+58;order book;2024-07-24T17:51:14.362Z
+58;leave bookstore;2024-07-24T17:52:52.362Z
+59;enter bookstore;2024-07-24T17:48:19.362Z
+59;browse books;2024-07-24T17:49:27.362Z
+59;order book;2024-07-24T17:51:03.362Z
+59;leave bookstore;2024-07-24T17:52:25.362Z
+60;enter bookstore;2024-07-24T17:48:19.362Z
+60;asking for assistance;2024-07-24T17:49:55.362Z
+60;select & pay book;2024-07-24T17:51:14.362Z
+60;leave bookstore;2024-07-24T17:52:30.362Z
+61;enter bookstore;2024-07-24T17:48:19.362Z
+61;asking for assistance;2024-07-24T17:50:12.362Z
+61;select & pay book;2024-07-24T17:51:19.362Z
+61;leave bookstore;2024-07-24T17:52:58.362Z
+62;enter bookstore;2024-07-24T17:48:19.362Z
+62;asking for assistance;2024-07-24T17:50:17.362Z
+62;select & pay book;2024-07-24T17:52:16.362Z
+62;leave bookstore;2024-07-24T17:54:08.362Z
+63;enter bookstore;2024-07-24T17:48:19.362Z
+63;browse books;2024-07-24T17:49:45.362Z
+63;select & pay book;2024-07-24T17:50:48.362Z
+63;leave bookstore;2024-07-24T17:52:43.362Z
+64;enter bookstore;2024-07-24T17:48:19.362Z
+64;browse books;2024-07-24T17:49:54.362Z
+64;select & pay book;2024-07-24T17:51:36.362Z
+64;leave bookstore;2024-07-24T17:53:02.362Z
+65;enter bookstore;2024-07-24T17:48:19.362Z
+65;browse books;2024-07-24T17:50:19.362Z
+65;order book;2024-07-24T17:52:03.362Z
+65;leave bookstore;2024-07-24T17:54:01.362Z
+66;enter bookstore;2024-07-24T17:48:19.362Z
+66;asking for assistance;2024-07-24T17:49:50.362Z
+66;select & pay book;2024-07-24T17:51:44.362Z
+66;leave bookstore;2024-07-24T17:53:25.362Z
+67;enter bookstore;2024-07-24T17:48:19.362Z
+67;browse books;2024-07-24T17:49:49.362Z
+67;order book;2024-07-24T17:51:28.362Z
+67;leave bookstore;2024-07-24T17:53:21.362Z
+68;enter bookstore;2024-07-24T17:48:19.362Z
+68;browse books;2024-07-24T17:50:15.362Z
+68;order book;2024-07-24T17:51:40.362Z
+68;leave bookstore;2024-07-24T17:53:18.362Z
+69;enter bookstore;2024-07-24T17:48:19.362Z
+69;browse books;2024-07-24T17:49:55.362Z
+69;select & pay book;2024-07-24T17:51:33.362Z
+69;leave bookstore;2024-07-24T17:53:15.362Z
+70;enter bookstore;2024-07-24T17:48:19.362Z
+70;browse books;2024-07-24T17:49:47.362Z
+70;order book;2024-07-24T17:51:23.362Z
+70;leave bookstore;2024-07-24T17:53:00.362Z
+71;enter bookstore;2024-07-24T17:48:19.362Z
+71;asking for assistance;2024-07-24T17:50:03.362Z
+71;select & pay book;2024-07-24T17:51:27.362Z
+71;leave bookstore;2024-07-24T17:53:06.362Z
+72;enter bookstore;2024-07-24T17:48:19.362Z
+72;browse books;2024-07-24T17:49:59.362Z
+72;select & pay book;2024-07-24T17:51:42.362Z
+72;leave bookstore;2024-07-24T17:53:18.362Z
+73;enter bookstore;2024-07-24T17:48:19.362Z
+73;browse books;2024-07-24T17:50:08.362Z
+73;order book;2024-07-24T17:52:05.362Z
+73;leave bookstore;2024-07-24T17:53:05.362Z
+74;enter bookstore;2024-07-24T17:48:19.362Z
+74;asking for assistance;2024-07-24T17:49:22.362Z
+74;select & pay book;2024-07-24T17:51:20.362Z
+74;leave bookstore;2024-07-24T17:52:37.362Z
+75;enter bookstore;2024-07-24T17:48:19.362Z
+75;asking for assistance;2024-07-24T17:49:53.362Z
+75;select & pay book;2024-07-24T17:51:48.362Z
+75;leave bookstore;2024-07-24T17:53:44.362Z
+76;enter bookstore;2024-07-24T17:48:19.362Z
+76;asking for assistance;2024-07-24T17:49:41.362Z
+76;select & pay book;2024-07-24T17:51:19.362Z
+76;leave bookstore;2024-07-24T17:53:05.362Z
+77;enter bookstore;2024-07-24T17:48:19.362Z
+77;browse books;2024-07-24T17:50:09.362Z
+77;order book;2024-07-24T17:52:07.362Z
+77;leave bookstore;2024-07-24T17:53:33.362Z
+78;enter bookstore;2024-07-24T17:48:19.362Z
+78;browse books;2024-07-24T17:49:51.362Z
+78;order book;2024-07-24T17:51:37.362Z
+78;leave bookstore;2024-07-24T17:52:41.362Z
+79;enter bookstore;2024-07-24T17:48:19.362Z
+79;asking for assistance;2024-07-24T17:49:21.362Z
+79;select & pay book;2024-07-24T17:50:39.362Z
+79;leave bookstore;2024-07-24T17:52:23.362Z
+80;enter bookstore;2024-07-24T17:48:19.362Z
+80;browse books;2024-07-24T17:50:04.362Z
+80;order book;2024-07-24T17:51:28.362Z
+80;leave bookstore;2024-07-24T17:53:15.362Z
+81;enter bookstore;2024-07-24T17:48:19.362Z
+81;asking for assistance;2024-07-24T17:49:19.362Z
+81;select & pay book;2024-07-24T17:50:56.362Z
+81;leave bookstore;2024-07-24T17:52:01.362Z
+82;enter bookstore;2024-07-24T17:48:19.362Z
+82;asking for assistance;2024-07-24T17:49:51.362Z
+82;select & pay book;2024-07-24T17:51:33.362Z
+82;leave bookstore;2024-07-24T17:53:33.362Z
+83;enter bookstore;2024-07-24T17:48:19.362Z
+83;browse books;2024-07-24T17:49:28.362Z
+83;select & pay book;2024-07-24T17:51:07.362Z
+83;leave bookstore;2024-07-24T17:52:22.362Z
+84;enter bookstore;2024-07-24T17:48:19.362Z
+84;browse books;2024-07-24T17:50:19.362Z
+84;order book;2024-07-24T17:51:20.362Z
+84;leave bookstore;2024-07-24T17:52:43.362Z
+85;enter bookstore;2024-07-24T17:48:19.362Z
+85;browse books;2024-07-24T17:49:58.362Z
+85;select & pay book;2024-07-24T17:51:15.362Z
+85;leave bookstore;2024-07-24T17:52:27.362Z
+86;enter bookstore;2024-07-24T17:48:19.362Z
+86;browse books;2024-07-24T17:49:32.362Z
+86;order book;2024-07-24T17:51:32.362Z
+86;leave bookstore;2024-07-24T17:52:37.362Z
+87;enter bookstore;2024-07-24T17:48:19.362Z
+87;browse books;2024-07-24T17:49:50.362Z
+87;select & pay book;2024-07-24T17:51:02.362Z
+87;leave bookstore;2024-07-24T17:52:31.362Z
+88;enter bookstore;2024-07-24T17:48:19.362Z
+88;asking for assistance;2024-07-24T17:49:31.362Z
+88;select & pay book;2024-07-24T17:51:22.362Z
+88;leave bookstore;2024-07-24T17:53:00.362Z
+89;enter bookstore;2024-07-24T17:48:19.362Z
+89;browse books;2024-07-24T17:49:25.362Z
+89;select & pay book;2024-07-24T17:51:13.362Z
+89;leave bookstore;2024-07-24T17:52:14.362Z
+90;enter bookstore;2024-07-24T17:48:19.362Z
+90;browse books;2024-07-24T17:50:19.362Z
+90;order book;2024-07-24T17:51:38.362Z
+90;leave bookstore;2024-07-24T17:53:01.362Z
+91;enter bookstore;2024-07-24T17:48:19.362Z
+91;browse books;2024-07-24T17:50:13.362Z
+91;select & pay book;2024-07-24T17:51:13.362Z
+91;leave bookstore;2024-07-24T17:52:31.362Z
+92;enter bookstore;2024-07-24T17:48:19.362Z
+92;browse books;2024-07-24T17:50:16.362Z
+92;order book;2024-07-24T17:52:01.362Z
+92;leave bookstore;2024-07-24T17:53:23.362Z
+93;enter bookstore;2024-07-24T17:48:19.362Z
+93;browse books;2024-07-24T17:50:17.362Z
+93;select & pay book;2024-07-24T17:51:42.362Z
+93;leave bookstore;2024-07-24T17:53:09.362Z
+94;enter bookstore;2024-07-24T17:48:19.362Z
+94;asking for assistance;2024-07-24T17:49:28.362Z
+94;select & pay book;2024-07-24T17:50:51.362Z
+94;leave bookstore;2024-07-24T17:52:37.362Z
+95;enter bookstore;2024-07-24T17:48:19.362Z
+95;browse books;2024-07-24T17:50:01.362Z
+95;select & pay book;2024-07-24T17:51:13.362Z
+95;leave bookstore;2024-07-24T17:52:46.362Z
+96;enter bookstore;2024-07-24T17:48:19.362Z
+96;browse books;2024-07-24T17:49:29.362Z
+96;order book;2024-07-24T17:51:28.362Z
+96;leave bookstore;2024-07-24T17:52:53.362Z
+97;enter bookstore;2024-07-24T17:48:19.362Z
+97;asking for assistance;2024-07-24T17:49:33.362Z
+97;select & pay book;2024-07-24T17:50:51.362Z
+97;leave bookstore;2024-07-24T17:52:31.362Z
+98;enter bookstore;2024-07-24T17:48:19.363Z
+98;browse books;2024-07-24T17:50:14.363Z
+98;order book;2024-07-24T17:51:28.363Z
+98;leave bookstore;2024-07-24T17:53:11.363Z
+99;enter bookstore;2024-07-24T17:48:19.363Z
+99;browse books;2024-07-24T17:49:21.363Z
+99;order book;2024-07-24T17:50:23.363Z
+99;leave bookstore;2024-07-24T17:51:36.363Z
+100;enter bookstore;2024-07-24T17:48:19.363Z
+100;browse books;2024-07-24T17:49:51.363Z
+100;order book;2024-07-24T17:51:30.363Z
+100;leave bookstore;2024-07-24T17:52:37.363Z
